@@ -16,5 +16,4 @@ Schoppe, Oliver, 2020, "AIMOS - light-sheet microscopy dataset", https://doi.org
 Pretrained models for these datasets can be found here:  
 Schoppe, Oliver, 2020, "AIMOS - pre-trained models", https://doi.org/10.7910/DVN/G6VLZN, Harvard Dataverse, V1 
 
-Please note that we also provide a fully functional live online demonstration on CodeOcean:
-https://codeocean.com/capsule/2308253/tree
+Please note that we also provide a fully functional live online demonstration on CodeOcean. Please refer to the manuscript for a link to the CodeOcean demonstration.
