@@ -8,6 +8,7 @@ This code saved as the basis for the following research article:
 O Schoppe, C Pan, J Coronel, H Mai, Z Rong, M Todorov, A Müskes, F Navarro, H Li, A Ertürk & B Menze. Deep learning-enabled multi-organ segmentation in whole-body mouse scans. Nature Communications 2020 (https://www.nature.com/articles/s41467-020-19449-7)
 
 
+
 This code goes along with two examplary datasets:
 
 *Native and contrast-enhanced micro-CT* 
