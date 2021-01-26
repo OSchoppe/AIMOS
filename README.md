@@ -1,6 +1,6 @@
 # AIMOS
 <b>AI-enabled Mouse Organ Segmentation</b>
-
+![AIMOS - AI-based Mouse Organ Segmentation ](https://www.tum.de/fileadmin/_processed_/a/a/csm_201123_Oliver_Schoppe_AE_183_2100_c1de664141.jpg)
 This repository contains the code to apply or adapt AIMOS, a deep learning processing pipeline for the segmentation of organs in volumetric mouse scans. The AIMOS pipeline is written in Python. The deep learning backbone is based on a Unet-like architecture and implemented in PyTorch. The code provided here comprises the architecture, the full inference pipeline, as well as a training procedure. Furthermore, we provide demonstration files guiding users through the steps of retraining AIMOS on custom datasets.
 
 This code saved as the basis for the following research article:
